@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lichamcuoikyjava</string>
+    <string name="back"><![CDATA[<<]]></string>
+    <string name="fw"><![CDATA[>>]]></string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#888</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="xanhnon">#7be6c4</color>
+    <color name="xanhbien">#0d44da</color>
+    <color name="xanhla">#0aec1c</color>
+    <color name="docam">#ec3e0a</color>
+    <color name="vang">#efe948</color>
+    <color name="dochoi">#ef0c0c</color>
+    <color name="xanhngoc">#F212EFA1</color>
+    <color name="camnhat">#F2EC8D29</color>
+    <color name="xam">#5A5957</color>
+    <color name="nutxam">#8d8a90</color>
+    <color name="nuttrang">#e3e8fb</color>
+    <color name="nutvang">#f6bc60</color>
+    <color name="bgnut">#605657</color>
+    <color name="mauedt">#797975</color>
+</resources>
